@@ -7,7 +7,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CalculComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+    Oncarre()
+{
+  
+}
+   
+  
+}
 
   ngOnInit() {
   }
